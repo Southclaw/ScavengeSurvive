@@ -1,2 +1,2 @@
 # ScavengeSurvive
-REPOSITORY MOVED: https://github.com/Southclaw/ScavengeSurvive (2016/12/16)
+REPOSITORY MOVED: https://github.com/Southclaws/ScavengeSurvive (2016/12/16)
